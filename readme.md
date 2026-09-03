@@ -4,7 +4,7 @@
 
 A collection of Fontworks fonts for personal use only.
 
-For the record, this font was obtained by directly accessing the font-loading API used by the original website ([fontworks.co.jp](fontworks.co.jp)); no keys were hacked at all during the font retrieval process.
+For the record, this font was obtained by directly accessing the font-loading API used by the original website ([fontworks.co.jp](https://fontworks.co.jp)); no keys were hacked at all during the font retrieval process.
 
 Therefore, please use this font for personal use only.
 
