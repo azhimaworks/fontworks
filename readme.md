@@ -36,6 +36,8 @@ Here are the fonts we were able to obtain.
 - PRO, Heading
 - PRO, Ultra
 
+### Tsukushi Old Gothic
+
 ### Tsukushi Antique Gothic
 
 - Large, STD, Bold
